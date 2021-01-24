@@ -9,7 +9,7 @@
 Kare şeklinde nxn kutulardan oluşan bir panelde iki kişi tarafından oynanan bir oyundur. Oyun sırasında
 her bir kutuya **s** yada **o** harflerinden biri yerleştirilir. Oyunun başında hangi oyuncunun 
 başlayacağına karar verilir. Amaç bir harf koyduğumuzda yatayda, dikeyde yada çarprazda **SOS**
-kelimesini oluşturmaktır. SOS kelimesini oluşturan oyuncu 1 puan alır 
+kelimesini oluşturmaktır. SOS kelimesini oluşturan oyuncu 1 puan alır.
 Panel üzerinde hiç boş kutu kalmayana kadar oyun oynanır, sonunda en çok puanı alan oyunu kazanır.
 
 ## Kurallar
